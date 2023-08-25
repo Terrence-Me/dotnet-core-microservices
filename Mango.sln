@@ -9,11 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{D998
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{BBBCD996-DE0D-4AFD-9EA1-3BFA34AD4F01}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{4CE4B9BC-B1D6-4791-831A-8735DE30899F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{4CE4B9BC-B1D6-4791-831A-8735DE30899F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Service.CouponAPI", "Mango.Service.CouponAPI\Mango.Service.CouponAPI.csproj", "{F9FF3FA9-6D26-47C4-9A8C-106233B9F60D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.CouponAPI", "Mango.Service.CouponAPI\Mango.Services.CouponAPI.csproj", "{F9FF3FA9-6D26-47C4-9A8C-106233B9F60D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Web", "Mango.Web\Mango.Web.csproj", "{71B59557-2A8F-45E8-98F8-23DFB70433DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Web", "Mango.Web\Mango.Web.csproj", "{71B59557-2A8F-45E8-98F8-23DFB70433DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,6 +2,7 @@
 using Mango.Service.CouponAPI.Data;
 using Mango.Service.CouponAPI.Models;
 using Mango.Service.CouponAPI.Models.Dto;
+using Mango.Services.CouponAPI.Dto;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Mango.Service.CouponAPI.Controllers

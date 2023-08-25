@@ -2,7 +2,8 @@
 {
     public class SD
     {
-        public enum ApitType
+        public static string CouponAPIBase { get; set; }
+        public enum ApiType
         {
             GET,
             POST,

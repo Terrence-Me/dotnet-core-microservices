@@ -1,6 +1,6 @@
 using AutoMapper;
-using Mango.Service.CouponAPI;
 using Mango.Service.CouponAPI.Data;
+using Mango.Services.CouponAPI;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
