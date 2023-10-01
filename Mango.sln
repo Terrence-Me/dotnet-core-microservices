@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.CouponAPI", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Web", "Mango.Web\Mango.Web.csproj", "{71B59557-2A8F-45E8-98F8-23DFB70433DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.AuthAPI", "Mango.Services.AuthAPI\Mango.Services.AuthAPI.csproj", "{199AB68C-B78A-40AD-AAD5-B8E70148B1CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.AuthAPI", "Mango.Services.AuthAPI\Mango.Services.AuthAPI.csproj", "{199AB68C-B78A-40AD-AAD5-B8E70148B1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.ProductAPI", "Mango.Services.ProductAPI\Mango.Services.ProductAPI.csproj", "{0D57BE97-413A-43CF-BEB6-4A02C9275A28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{199AB68C-B78A-40AD-AAD5-B8E70148B1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{199AB68C-B78A-40AD-AAD5-B8E70148B1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{199AB68C-B78A-40AD-AAD5-B8E70148B1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D57BE97-413A-43CF-BEB6-4A02C9275A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D57BE97-413A-43CF-BEB6-4A02C9275A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D57BE97-413A-43CF-BEB6-4A02C9275A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D57BE97-413A-43CF-BEB6-4A02C9275A28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +49,7 @@ Global
 		{F9FF3FA9-6D26-47C4-9A8C-106233B9F60D} = {4CE4B9BC-B1D6-4791-831A-8735DE30899F}
 		{71B59557-2A8F-45E8-98F8-23DFB70433DD} = {7E77DFEC-BE22-45FC-97DE-1B477AF7F2F0}
 		{199AB68C-B78A-40AD-AAD5-B8E70148B1CD} = {4CE4B9BC-B1D6-4791-831A-8735DE30899F}
+		{0D57BE97-413A-43CF-BEB6-4A02C9275A28} = {4CE4B9BC-B1D6-4791-831A-8735DE30899F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9617259F-0BB7-499D-8CD4-C9F31A852799}
